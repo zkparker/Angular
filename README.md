@@ -1,3 +1,7 @@
+# Link to deployed site:
+
+https://simple-reddit-app.zkparker.vercel.app/
+
 # AngularReddit
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
